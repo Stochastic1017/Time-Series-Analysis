@@ -62,7 +62,7 @@ The html links to plots that are not rendered in the ipynb file are given below:
 
 1. [Original Time Series Plot](https://htmlpreview.github.io/?https://github.com/Stochastic1017/Time-Series-Analysis/blob/main/html/Original_Time_Series_Data.html)
 2. [Seasonal Plot of Receipt Count against Days](https://htmlpreview.github.io/?https://github.com/Stochastic1017/Time-Series-Analysis/blob/main/html/Seasonal_Plot_Receipt_Counts_Days.html)
-3. [Seasonal Plot of Receipt Count against Months](https://htmlpreview.github.io/?[https://github.com/Stochastic1017/Predicting-Gender/blob/main/Images/PCA-3d.html](https://github.com/Stochastic1017/Time-Series-Analysis/blob/main/html/Seasonal_Plot_Receipt_Counts_Month.html))
+3. [Seasonal Plot of Receipt Count against Months](https://htmlpreview.github.io/?https://github.com/Stochastic1017/Time-Series-Analysis/blob/main/html/Seasonal_Plot_Receipt_Counts_Month.html)
 4. [Single Exponential Smoothing (SES)](https://htmlpreview.github.io/?https://github.com/Stochastic1017/Time-Series-Analysis/blob/main/html/Single_Exponential_Smoothing.html)
 5. [Scatterplot of time-series data](https://htmlpreview.github.io/?https://github.com/Stochastic1017/Time-Series-Analysis/blob/main/html/Scatter_Plot_Time_Series_Data.html)
 6. [Scatterplot of time-series data with fitted regression trend line](https://htmlpreview.github.io/?https://github.com/Stochastic1017/Time-Series-Analysis/blob/main/html/Scatter_Plot_Time_Series_Data_Regression_Line.html)
