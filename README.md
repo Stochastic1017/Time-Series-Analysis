@@ -10,6 +10,8 @@ Next, we fit a Single Exponential Smoothing (SES) model to our data. Nelder-Mead
 
 Finally, we used weights for the SES and Regression models. Nelder-Mead was implemented again to find the weights that minimize Mean Squared Error (MSE). This gave us a model that captured most short-term fluctuations and long-term trends while also leaving enough room for generality and prediction purposes.
 
+**Note: It is highly suggested to run the jupyter notebook on docker as many of the plots are interactive. The instructions to run the docker file is given below.**
+
 ## Run jupyter notebook on [docker](https://hub.docker.com/repository/docker/stochastic1017/ml_time_series/general)
 
 ### 1.) Pull this image using the provided command:
