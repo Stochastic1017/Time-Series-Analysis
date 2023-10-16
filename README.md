@@ -14,6 +14,8 @@ Finally, we used weights for the SES and Regression models. Nelder-Mead was impl
 
 ## Run jupyter notebook on [docker](https://hub.docker.com/repository/docker/stochastic1017/ml_time_series/general)
 
+Make sure to have docker installed on your local machine, link to download can be found [here](https://www.docker.com/get-started/). 
+
 ### 1.) Pull this image using the provided command:
 
  ```
